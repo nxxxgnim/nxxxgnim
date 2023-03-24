@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=나녕이&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=black&height=200&section=header&text=나녕이&fontSize=90" />
 
 ### Hi there 👋
 
