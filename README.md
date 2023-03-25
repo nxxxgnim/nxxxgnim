@@ -2,4 +2,4 @@
 
 22.10~ 나녕 한다 공부
 
- <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=black"/>
+ <img src="https://img.shields.io/badge/NestJS-E0234E?style=social&logo=NestJS&logoColor=black"/>
