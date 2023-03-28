@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" class="background: black;">
   
   <h1>Nanyoung Kim</h1>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=black"/>
