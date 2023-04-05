@@ -6,5 +6,4 @@
   <img src="https://img.shields.io/badge/NextJS-010101?style=for-the-badge&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=Python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Solidity-010101?style=for-the-badge&logo=Solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffe700?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </div>
