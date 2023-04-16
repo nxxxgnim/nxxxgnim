@@ -5,4 +5,5 @@
 
 Uzzurago Mulba
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ffe700?style=for-the-badge&logo=JavaScript&logoColor=black)
+  ![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity&logoColor=white)
