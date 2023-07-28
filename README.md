@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <h1>Nanyoung Kim</h1>
+  <h1>💚🤷🏻‍♀️💻🖤</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
