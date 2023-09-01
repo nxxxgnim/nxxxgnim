@@ -3,10 +3,7 @@
   
   <h1>💚🤷🏻‍♀️💻🖤</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" /></div>
 
 
 
